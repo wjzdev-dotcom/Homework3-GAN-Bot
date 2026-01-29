@@ -4,7 +4,7 @@
 This project implements a Discord bot capable of generating images based on text input. It features a custom-trained **DCGAN** model optimized for horse images using the CIFAR-10 dataset.
 
 ### 🏁 Deliverables
-- **GitHub Repository**: [Your Repo Link Here]
+- **GitHub Repository**: [https://github.com/wjzdev-dotcom/Homework3-GAN-Bot]
 - **Discord Bot**: HelloWorld#7424 (ID: 1461092058621149297)
 
 ---
