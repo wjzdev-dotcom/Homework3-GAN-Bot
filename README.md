@@ -10,7 +10,7 @@ This project implements a Discord bot capable of generating images based on text
 ---
 
 ## 🛠️ Implementation Details
-- **![GAN Result](./horse.png)
+- ![GAN Result](./horse.png)
 ### 1. Model Development (GAN)
 - **Architecture**: A Deep Convolutional GAN (DCGAN).
 - **Optimization Strategy**: To improve image fidelity within a limited training window, I implemented a **Class-Specific Training** approach. I filtered the CIFAR-10 dataset to include only the **Horse (Class 7)** category.
