@@ -10,6 +10,7 @@ This project implements a Discord bot capable of generating images based on text
 ---
 
 ## 🛠️ Implementation Details
+- ![GAN Result](./image.png)
 - ![GAN Result](./horse.png)
 ### 1. Model Development (GAN)
 - **Architecture**: A Deep Convolutional GAN (DCGAN).
